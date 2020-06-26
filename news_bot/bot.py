@@ -6,7 +6,7 @@ from utils import get_reply,fetch_news,topics_keyboard,intro,helpo
 logging.basicConfig(format='%(asctime)s - :%(name)s - %(levelname)s - %(messages)s-',level=logging.INFO)
 logger=logging.getLogger(__name__)
 
-TOKEN="1282106181:AAEg8lQ5e70CFZnMqQT6flbawdQH8re8vnw"
+TOKEN="ENTER YOUR BOT API HERE"
 
  
 def start(bot,update):
