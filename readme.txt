@@ -1,3 +1,4 @@
+collaborative project of Neerav Ganate and Aayush Jaggi (students of NIT hamirpur)
 This is a responsive telegram bot that can we used for news and small talks
 the bot has 8 different news categories and has respective news tablets for each category
 
